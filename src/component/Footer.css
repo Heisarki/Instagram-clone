@@ -1,0 +1,19 @@
+.info a {
+  padding-right: 15px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  color: rgb(224, 211, 211);
+}
+
+.footerMain {
+  padding: 30px;
+
+  overflow: hidden;
+}
+
+.copyright {
+  font-size: 13px;
+  color: rgb(224, 211, 211);
+  padding-top: 30px;
+}

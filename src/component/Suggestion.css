@@ -1,0 +1,33 @@
+.profileSuggestion {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+}
+
+.userDetail {
+  display: flex;
+}
+.name {
+  padding-left: 10px;
+}
+
+.profileSuggestion img {
+  width: 30px;
+  height: 30px;
+  border-style: solid;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.profileSuggestion h1 {
+  font-size: 15px;
+}
+
+.profileSuggestion p1 {
+  font-size: 12px;
+}
+
+.follow a {
+  text-decoration: none;
+  font-size: 15px;
+}

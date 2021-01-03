@@ -1,0 +1,46 @@
+.mainProfileSwitch {
+  /* background: #000; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 20px;
+}
+
+.profileProfileSwitch {
+  display: flex;
+  align-items: center;
+}
+
+.profileProfileSwitch img {
+  width: 50px;
+  height: 50px;
+  border-style: solid;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.profileProfileSwitch .userDetail {
+  font-size: 20px;
+}
+.profileProfileSwitch .name {
+  font-size: 13px;
+}
+
+.switch a {
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.seeAll {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20px;
+}
+
+.seeAll p1 {
+  color: rgb(170, 170, 170);
+}
+.seeAll a {
+  color: black;
+  text-decoration: none;
+}
